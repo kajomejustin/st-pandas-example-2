@@ -1,21 +1,8 @@
-# 📦 Streamlit App Starter Kit 
+# 🐼 Pandas - An EDA example
 ```
-⬆️ (Replace above with your app's name)
+A simple example showing the use of Pandas for performing EDA in a Streamlit app.
 ```
-
-Description of the app ...
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
-
-## Section Heading
-
-This is filler text, please replace this with text for this section.
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dataprofessor-st-pandas-example-1-streamlit-app-ho581p.streamlit.app/)
