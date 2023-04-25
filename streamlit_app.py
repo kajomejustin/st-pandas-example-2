@@ -7,6 +7,6 @@ df = pd.read_csv('https://raw.githubusercontent.com/dataprofessor/data/master/de
 st.write(df)
   
 if st.button('Show descriptive statistics analysis'):
-  df.describe()
+  st.write(df.describe())
 else:
   st.info('👆 Click on the button ')
